@@ -4,9 +4,6 @@
 
 -Tienda en php utilizando sql
 
--Metodo mvcpoo
-
-
 Cuenta con un registro de usuario, catalo de productos tomado de una base de datos, seccion por categorias, armado de carrito y verificacion de pedidos.
 
 En el caso de tener que ingresar al panel de administrador, crear un usuario y cambiarle el rol por phpmyadmin a "admin".
